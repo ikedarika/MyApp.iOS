@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YI//lqNTCptDbpI2wAolg84g0oj7Vru6WRI3OkkckFiI8zmh7e/QjlXpgu2RR1yamR7XQPY1O0EVng/RJcDUAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ikedarika\\source\\MyApp.iOS\\AwesomeApp\\AwesomeApp\\AwesomeApp.iOS\\MyApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ikedarika\\.nuget\\packages\\microsoft.appcenter\\4.4.0\\microsoft.appcenter.4.4.0.nupkg.sha512",
+    "C:\\Users\\ikedarika\\.nuget\\packages\\microsoft.appcenter.analytics\\4.4.0\\microsoft.appcenter.analytics.4.4.0.nupkg.sha512",
+    "C:\\Users\\ikedarika\\.nuget\\packages\\microsoft.appcenter.crashes\\4.4.0\\microsoft.appcenter.crashes.4.4.0.nupkg.sha512",
+    "C:\\Users\\ikedarika\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
